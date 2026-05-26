@@ -1,1 +1,2 @@
-# exam-team-3
+# My project 
+My role: student 
